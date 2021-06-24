@@ -1,17 +1,11 @@
 <h1 align="center">Welcome to Practices.Interop 👋</h1>
 <p>
-  <a href="https://twitter.com/Rafael\_M\_Porto" target="_blank">
-    <img alt="Twitter: Rafael\_M\_Porto" src="https://img.shields.io/twitter/follow/Rafael\_M\_Porto.svg?style=social" />
+  <a href="https://twitter.com/Rafael_M_Porto" target="_blank">
+    <img alt="Twitter: Rafael\_M\_Porto" src="https://img.shields.io/twitter/follow/Rafael_M_Porto.svg?style=social" />
   </a>
 </p>
 
 > Examples of interop between languages.
-
-## Usage
-
-```sh
-First you should install Clojure CLR
-```
 
 ## Author
 
