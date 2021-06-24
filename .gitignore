@@ -3,3 +3,5 @@
 ################################################################################
 
 /Practices.Interop.CSharp/bin/Debug/net5.0
+/Practices.Interop.CSharp/obj
+/Practices.Interop.CSharp/.vs/Practices.Interop.CSharp/v16
